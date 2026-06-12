@@ -132,5 +132,8 @@ food-chemistry-writer/
 
 ---
 
-*致谢 · Credits*：`academic-research-skills` (github.com/Imbad0202/academic-research-skills)、
-`nature-skills` (github.com/Yuan1z0825/nature-skills)。
+*致谢 · Credits*：
+
+`academic-research-skills` (github.com/Imbad0202/academic-research-skills)
+
+`nature-skills` (github.com/Yuan1z0825/nature-skills)
