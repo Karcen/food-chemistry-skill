@@ -115,11 +115,11 @@ food-chemistry-writer/
 | Abstract | ≤ **150 words**；可独立成段；尽量不引文献 · stand-alone, avoid references |
 | Keywords | **1–7** 个，英文，尽量单词 · English, prefer single words |
 | Highlights | **3–5** 条，每条 ≤ **85 字符**（含空格）· bullets, ≤85 chars each |
-| Graphical Abstract | 531 × 1328 px (h×w)；TIFF/EPS/PDF/MS Office |
+| Graphical Abstract | 531 × 1328 px (h×w)；PNG/PDF/MS Office |
 | 字数 · Length | Research/Analytical ≤ 8,000；Review ≤ 10,000；Short ≤ 3,000（且 ≤40 refs） |
 | 图表 · Tables+Figures | 合计建议 ≤ **8** · ≤8 combined recommended |
 | 引用 · Citations | 作者-年份，APA 第7版；字母序+时间序 · author–year (APA 7th) |
-| 图件格式 · Figure formats | 矢量 EPS/PDF；位图 TIFF/JPG/PNG（≥300 dpi）。**不收 SVG** · SVG not accepted |
+| 图件格式 · Figure formats | 矢量 PDF；位图 PNG（≥300 dpi）。**不收 SVG** · SVG not accepted |
 | 必备声明 · Statements | CRediT、Competing interests、Funding、Data availability (Option C)、AI 声明 |
 
 > 完整规则以 `references/Food_Chemistry_Guide_for_Authors.md` 为准 · full rules govern.
