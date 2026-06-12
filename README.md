@@ -23,7 +23,7 @@ abstract, reference formatting, and translation **after the manuscript is finali
 
 ---
 
-## 2. 三条铁律 · Three hard rules
+## 2. 四条铁律 · Four hard rules
 
 1. **优先级 · Priority** — 冲突时从高到低：
    `Guide for Authors > Food Chemistry 范文 > Submission Translator > academic-research-skills > nature-skills`。
@@ -33,6 +33,7 @@ abstract, reference formatting, and translation **after the manuscript is finali
    "translate / finalize" command.
 3. **每改必交两份 markdown · Two mandatory reports per revision** — 每完成一篇文章的修改，必须额外用
    markdown 输出 **修改清单 (What Changed)** + **文章逻辑 (Article Logic)**。
+4. **行文逻辑和文章各部分的衔接高于一切** **The logical flow and inter-section coherence of the writing take precedence over everything else.**
 
 ---
 
