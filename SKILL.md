@@ -44,8 +44,9 @@ metadata:
 4. academic-research-skills                ← 通用学术写作流水线
 5. nature-skills                           ← Nature 风格 (最低)
 ```
-
+> **行文逻辑和文章各部分的衔接高于一切 The logical flow and inter-section coherence of the writing take precedence over everything else.**
 > ⛔ **Nature 风格写作惯例绝不可凌驾于 Food Chemistry 要求之上。**
+> 但作图以 Nature 风格为准
 > 例如：Nature 偏好无小标题的连续叙述、引文用编号制 [1]、摘要 ≤150–200 字的"summary
 > paragraph"风格——这些都让位于 Food Chemistry 的：编号分节 (1, 1.1, 1.1.1)、作者-年份 (APA
 > 第7版) 引文、摘要 ≤150 词、Highlights、Graphical Abstract 等硬性规定。
