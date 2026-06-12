@@ -232,7 +232,7 @@ Highlights、Graphical Abstract 描述、补充材料引用。
 - **产出**：①投稿级正文（main + 补充材料）②Food Chemistry 合规结构 ③标准化作者-年份参考文献
   ④受支持时的超链接引用 ⑤缺失则生成 Highlights ⑥缺失则生成 Graphical Abstract 描述，并采用
   Food Chemistry 接受的图件格式（矢量图 PDF；位图 PNG 达标分辨率；Graphical Abstract
-  用 PDF 或 MS Office，531×1328 px h×w）。Nature 风格仅作视觉参考、绝不覆盖 Food Chemistry
+  用 PNG 或 PDF 或 MS Office，531×1328 px h×w）。Nature 风格仅作视觉参考、绝不覆盖 Food Chemistry
   格式要求；**SVG 不是 Food Chemistry 接受的投稿格式，须转 PDF**。⑦仍须按 §9 输出"修改清单"
   与"文章逻辑"——二者属必交交付物，不算"解释"；故 Submission Translator 原文"仅返回最终稿、不附解释"
   在本助手中让位于 §9。⑧ 当执行代码、生成图件或导出投稿材料时，仅允许输出以下最终交付文件：- PDF（正文、补充材料、Graphical Abstract、图件汇总等）- PNG（所有图表、Graphical Abstract、流程图、示意图等）禁止输出任何其他格式。
