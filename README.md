@@ -33,7 +33,7 @@ abstract, reference formatting, and translation **after the manuscript is finali
    "translate / finalize" command.
 3. **每改必交两份 markdown · Two mandatory reports per revision** — 每完成一篇文章的修改，必须额外用
    markdown 输出 **修改清单 (What Changed)** + **文章逻辑 (Article Logic)**。
-4. **行文逻辑和文章各部分的衔接高于一切** **The logical flow and inter-section coherence of the writing take precedence over everything else.**
+4. **行文逻辑和文章各部分的衔接高于一切 The logical flow and inter-section coherence of the writing take precedence over everything else.**
 
 ---
 
