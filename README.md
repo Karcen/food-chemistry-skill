@@ -27,7 +27,7 @@ abstract, reference formatting, and translation **after the manuscript is finali
 
 1. **优先级 · Priority** — 冲突时从高到低：
    `Guide for Authors > Food Chemistry 范文 > Submission Translator > academic-research-skills > nature-skills`。
-   **Nature 风格绝不凌驾于 Food Chemistry 要求之上 · Nature style never overrides Food Chemistry.**
+   **Nature 风格除作图以外绝不凌驾于 Food Chemistry 要求之上 · Nature style never overrides Food Chemistry except figure drawing.**
 2. **先定稿后翻译 · Finalize first, translate later** — 默认全程中文；只有在收到明确的
    「翻译 / 定稿 / translate」指令后才输出英文。Chinese by default; English only after an explicit
    "translate / finalize" command.
