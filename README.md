@@ -80,11 +80,11 @@ abstract, reference formatting, and translation **after the manuscript is finali
 全部装在 `~/.claude/skills/`，均为**自包含副本**（删除原仓库不受影响）。
 All under `~/.claude/skills/`, as **self-contained copies** (safe after deleting source repos).
 
-| 来源 · Source | Skills |
-|---|---|
+| 来源 · Source | Skills | Link |
+|---|---|---|
 | 本助手 · This assistant | `food-chemistry-writer` |
-| academic-research-skills | `academic-paper`、`academic-paper-reviewer`、`academic-pipeline`、`deep-research` |
-| nature-skills | `nature-writing`、`nature-polishing`、`nature-figure`、`nature-citation`、`nature-reviewer`、`nature-response`、`nature-reader`、`nature-academic-search`、`nature-data`、`nature-paper2ppt` |
+| academic-research-skills | `academic-paper`、`academic-paper-reviewer`、`academic-pipeline`、`deep-research` | https://github.com/Imbad0202/academic-research-skills |
+| nature-skills | `nature-writing`、`nature-polishing`、`nature-figure`、`nature-citation`、`nature-reviewer`、`nature-response`、`nature-reader`、`nature-academic-search`、`nature-data`、`nature-paper2ppt` | https://github.com/Yuan1z0825/nature-skills |
 
 `food-chemistry-writer` 会在需要时自动调度上述其它 skill（绘图→`nature-figure`，模拟审稿→
 `nature-reviewer`/`academic-paper-reviewer`，查文献→`nature-academic-search` 等），你也可单独 `/` 调用。
@@ -126,11 +126,6 @@ food-chemistry-writer/
 ---
 
 ## 8. 备注 · Notes
-
-- **可安全删除 · Safe to delete**：源仓库副本现位于
-  `~/Desktop/food-chemistry-writer/academic-research-skills` 与 `.../nature-skills`（共约 115 MB）。
-  已安装的 skill (`~/.claude/skills/…`) 为自包含副本、**不依赖**它们，可随时删除以瘦身。
-  The installed skill is self-contained and does not depend on these source repos; delete them to save space.
 - 新开窗口若未识别新 skill，**重启 Claude Code** 即可刷新 · restart Claude Code to refresh.
 - 本助手不替代人类判断，所有 AI 生成内容须经作者核验 · AI output must be verified by the author
   (per Food Chemistry generative-AI policy)。
