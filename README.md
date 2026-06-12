@@ -77,8 +77,8 @@ abstract, reference formatting, and translation **after the manuscript is finali
 
 ## 5. 已安装的全部 skill · All installed skills
 
-全部装在 `~/.claude/skills/`，均为**自包含副本**（删除原仓库不受影响）。
-All under `~/.claude/skills/`, as **self-contained copies** (safe after deleting source repos).
+请提前下载`academic-research-skills`和`nature-skills`，并全部装在 `~/.claude/skills/`。
+Please download `academic-research-skills`和`nature-skills` in advance, and all under `~/.claude/skills/`.
 
 | 来源 · Source | Skills | Link |
 |---|---|---|
@@ -103,7 +103,7 @@ food-chemistry-writer/
     └── Food_Chemistry_Submission_Translator.md    # 翻译/定稿规则 · translation rules
 ```
 
-> 安装位置 · Installed at: `~/.claude/skills/food-chemistry-writer/`（与桌面这份内容一致 · identical to this Desktop copy）
+> 安装位置 · Installed at: `~/.claude/skills/food-chemistry-writer/`
 
 ---
 
