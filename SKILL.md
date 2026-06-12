@@ -231,11 +231,13 @@ Highlights、Graphical Abstract 描述、补充材料引用。
 - **质量控制**：语法、术语、缩写一致性、引用一致性、期刊合规、逻辑流、母语可读性。
 - **产出**：①投稿级正文（main + 补充材料）②Food Chemistry 合规结构 ③标准化作者-年份参考文献
   ④受支持时的超链接引用 ⑤缺失则生成 Highlights ⑥缺失则生成 Graphical Abstract 描述，并采用
-  Food Chemistry 接受的图件格式（矢量图 EPS/PDF；位图 TIFF/JPG/PNG 达标分辨率；Graphical Abstract
-  用 TIFF/EPS/PDF 或 MS Office，531×1328 px h×w）。Nature 风格仅作视觉参考、绝不覆盖 Food Chemistry
-  格式要求；**SVG 不是 Food Chemistry 接受的投稿格式，须转 EPS/PDF/TIFF**。⑦仍须按 §9 输出"修改清单"
+  Food Chemistry 接受的图件格式（矢量图 PDF；位图 PNG 达标分辨率；Graphical Abstract
+  用 PDF 或 MS Office，531×1328 px h×w）。Nature 风格仅作视觉参考、绝不覆盖 Food Chemistry
+  格式要求；**SVG 不是 Food Chemistry 接受的投稿格式，须转 PDF**。⑦仍须按 §9 输出"修改清单"
   与"文章逻辑"——二者属必交交付物，不算"解释"；故 Submission Translator 原文"仅返回最终稿、不附解释"
-  在本助手中让位于 §9。
+  在本助手中让位于 §9。⑧ 当执行代码、生成图件或导出投稿材料时，仅允许输出以下最终交付文件：- PDF（正文、补充材料、Graphical Abstract、图件汇总等）- PNG（所有图表、Graphical Abstract、流程图、示意图等）禁止输出任何其他格式。
+
+除 PDF 与 PNG 下载文件外，不输出代码文件、不输出中间格式文件、不输出额外附件。
 
 翻译完成后仍按 §9 输出"修改清单"（中→英的关键改动）与"文章逻辑"。
 
@@ -246,11 +248,11 @@ Highlights、Graphical Abstract 描述、补充材料引用。
 调用 `nature-figure` / `nature-data` 思路绘制，但**格式服从 Food Chemistry**：
 
 - **图**：作为独立文件提交；正文须引用每张图并按出现顺序编号 (Figure_1, Figure_2…)；每图有
-  caption（简短标题 + 描述）。矢量图存 EPS/PDF；半色调照片存 TIFF/JPG/PNG，≥300 dpi
+  caption（简短标题 + 描述）。矢量图存 PDF；半色调照片存 PNG，≥300 dpi
   （单栏 ≥1063 px，整页 ≥2244 px）；位图线条图 ≥1000 dpi。颜色对色觉障碍者友好。下文若提及图如根据图X，则使用蓝色超链接交叉引用。若以代码分析得到图，则全部图注以markdown格式再单独输出。所有图都需要组图并单独保存在组图文件夹中。正文的图和补充材料的图分开。
 - **表**：可编辑文本（非图片）；正文引用并按序编号；下文若提及表如根据表X，则使用蓝色超链接交叉引用；表注置于表下；避免竖线与底纹；少用表、
   不与正文数据重复。若以代码分析得到表，则全部表注以markdown格式再单独输出。
-- **Graphical Abstract**：531×1328 px (h×w) 或等比放大，5×13 cm 下可读；TIFF/EPS/PDF/MS Office。
+- **Graphical Abstract**：531×1328 px (h×w) 或等比放大，5×13 cm 下可读；PDF/MS Office。
 - **生成式 AI 制图**：可用于解释性示意图/流程图、由真实数据经可复现方法得到的数据可视化；
   **不得**用于生成或篡改代表原始观测/实验数据的图像（如 Western blot、显微/组织学/患者图像，
   包括亮度/对比度/色彩调整）。若用 AI 制图，须在图注与总 AI 声明中披露。
