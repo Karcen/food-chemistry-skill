@@ -12,7 +12,7 @@ description: >-
   Highlights, 图形摘要, Graphical Abstract, 参考文献, 投稿前审稿, 合规审计, 定稿翻译,
   submission, manuscript, food chemistry submission, polish manuscript.
 metadata:
-  version: "1.0.0"
+  version: "1.5.0"
   last_updated: "2026-06-12"
   status: active
   language_default: zh-CN
