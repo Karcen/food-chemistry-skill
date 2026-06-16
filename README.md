@@ -133,5 +133,3 @@
 
 * `academic-research-skills` (github.com/Imbad0202/academic-research-skills)
 * `nature-skills` (github.com/Yuan1z0825/nature-skills)
-
-```
