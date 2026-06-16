@@ -1,9 +1,3 @@
-这里是为您完整更新后的 `README.md`，我已经新增了 **第 7 节：数据与代码可用性声明示例 (Data Availability Examples)**。
-
-在这些示例中，我结合了现代数字化科研的常见场景（如使用 Python/Pandas 处理重度数据，以及在 GitHub 和 Hugging Face 上托管代码、模型与数据集），并展示了如何优雅且合规地将其嵌入到《Food Chemistry》的正文和参考文献中。
-
-您可以直接复制以下完整内容替换您的 `README.md` 文件：
-
 ```markdown
 # Food Chemistry 写作助手 · Food Chemistry Writing Assistant
 
