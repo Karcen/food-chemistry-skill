@@ -1,4 +1,3 @@
-```markdown
 # Food Chemistry 写作助手 · Food Chemistry Writing Assistant
 
 > 面向《**Food Chemistry**》(Elsevier) 的一站式投稿写作助手与端到端学术生产流水线。
@@ -134,7 +133,5 @@
 
 * `academic-research-skills` (github.com/Imbad0202/academic-research-skills)
 * `nature-skills` (github.com/Yuan1z0825/nature-skills)
-
-```
 
 ```
