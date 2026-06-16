@@ -1,3 +1,4 @@
+---
 name: food-chemistry-writer
 description: >-
   《Food Chemistry》(Elsevier) 投稿写作助手。整合 Food Chemistry Guide for Authors、
@@ -23,7 +24,6 @@ metadata:
     - academic-research-skills (academic-paper / academic-paper-reviewer / academic-pipeline / deep-research)
     - nature-skills (nature-writing / nature-polishing / nature-figure / nature-citation / nature-reviewer / nature-response / nature-reader / nature-academic-search / nature-data)
 ---
-
 # Food Chemistry 写作助手 — Food Chemistry Writing Assistant
 
 面向《**Food Chemistry**》(Elsevier) 投稿的一站式写作助手。把"期刊硬性规范"放在最高位，把通用学术写作技巧 (academic-research-skills) 与 Nature 风格写作/图表 (nature-skills) 当作可调用的工具层，并内置一套严格的"端到端生产流水线 (End-to-End Pipeline)"与"翻译定稿流程 (Submission Translator)"。
@@ -57,7 +57,7 @@ metadata:
 
 1. **意图确认**：通过 `AskUserQuestion` 确认文章类型（Research/Review）、已有素材（数据/图表/大纲）及核心主张。
 2. **范围排雷**：对照 §11 的 *Aims & Scope* 检查是否涉及“不予考虑”的红线（如纯计算无验证、非食品草药等）。
-3. **文献与缺口**：调用 `deep-research` 与 `literature_strategist`，可结合 NotebookLM、Gemini 等大模型工具提炼长文本摘要，构建“背景 → 知识缺口 → 科学假设”的逻辑链。
+3. **文献与缺口**：调用 `deep-research` 与 `literature_strategist`，可结合 NotebookLM、Gemini 等大模型工具提炼长文本摘要，构建“背景 → 知识缺口 → 科学假设”的逻辑链。如果遇到非OA的文章需自动下载到本地（如果链接校园网），构建的时候需要非OA的文章和OA的文章都要使用。务必优先选择影响因子和期刊质量高于Food Chemistry的期刊论文。
 
 ### **Phase 2: 数据与可视化 (Data & Visualization)**
 
